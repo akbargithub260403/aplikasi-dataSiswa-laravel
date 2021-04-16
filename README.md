@@ -2,7 +2,10 @@
 <p>Aplikasi ini dirancang menggunakan Framework PHP Laravel versi 7.</p>
 <p><b>NOTE: lakukan perintah berikut</b></p>
 <ul>
-	<li>1. copy lalu paste file .env.example dan rename nama file menjadi .env</li>
+	<li>copy lalu paste file .env.example dan rename nama file menjadi .env</li>
+	<li>masukan konfigurasi database anda di file .env</li>
+	<li>ketikan perintah di terminal anda <i>php artisan migrate</i></li>
+	<li>setelah melakukan migration , lakukan perintah <i>php artisan db:seed</i></li>
 </ul>
 
 
