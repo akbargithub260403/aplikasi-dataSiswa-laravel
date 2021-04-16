@@ -1,22 +1,10 @@
 <h2>Aplikasi Data Siswa</h2>
-<table class="table" border="1">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-  </tbody>
-</table>
+<p>Aplikasi ini dirancang menggunakan Framework PHP Laravel versi 7.</p>
+<p><b>NOTE: lakukan perintah berikut</b></p>
+<ul>
+	<li>1. copy lalu paste file .env.example dan rename nama file menjadi .env</li>
+</ul>
+
 
 
 ## About Laravel
