@@ -6,6 +6,7 @@
 	<li>masukan konfigurasi database anda di file .env</li>
 	<li>ketikan perintah di terminal anda <i>php artisan migrate</i></li>
 	<li>setelah melakukan migration , lakukan perintah <i>php artisan db:seed</i></li>
+	<li>Setelah semua perintah selesai di lakukan , Aplikasi Siap untuk digunakan</li>
 </ul>
 
 
